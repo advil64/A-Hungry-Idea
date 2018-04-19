@@ -1,0 +1,20 @@
+body {
+ background-image: url("https://s-media-cache-ak0.pinimg.com/originals/81/3f/86/813f861ae7532162ea486ab2bc1399b6.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  padding-left: 0.5em;
+  padding-top: 70px;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+
+.jumbotron {
+  border-radius: 10px;
+  padding-left: 2em;
+}
+
+#comment-box {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
