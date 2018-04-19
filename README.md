@@ -1,4 +1,4 @@
-# ahungryidea
+# A Hungry Idea
 
 # Inspiration
 
